@@ -38,7 +38,7 @@ pip install --upgrade package-name
 If you no longer need a package, you can uninstall it using:
 ```bash
 pip uninstall package-name
-``
+```
 ***
 Now that you understand how PIP works, you’re ready to explore and install the packages listed in this repository!
 ***
